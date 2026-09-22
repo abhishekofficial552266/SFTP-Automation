@@ -1,0 +1,11 @@
+{
+  "requests": [
+    {
+      "requestType": "Create",
+      "sourceName": "Rock",
+      "folderName": "Sailpoint_Rock",
+      "access": "rw",
+      "remarks": ""
+    }
+  ]
+}
